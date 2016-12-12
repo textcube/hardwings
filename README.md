@@ -1,7 +1,5 @@
-hardwings
-=========
-
 Hard Wings  (Flappy Bird Style Running Game)
+============================================
 
 Thank you for buying this package!
 For those who want to make an action running game for the first time will help.
